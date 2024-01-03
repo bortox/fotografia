@@ -3,19 +3,20 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "📷 La comparsa della fotografia",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "google",
+      tagId: "G-THL0WYWXYW"
     },
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "fotografia.bortox.it",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Heebo",
+        body: "Ubuntu",
         code: "IBM Plex Mono",
       },
       colors: {
