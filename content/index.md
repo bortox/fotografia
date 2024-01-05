@@ -23,5 +23,18 @@ Parliamo innanzitutto di [[Cos'è la fotografia]] dando una definizione di fotog
 
 ## Rapporto arte-fotografia
 
-* **[[Odalisca]]**, Eugene Delacroix
-* **Paesaggio**, Camille Corto
+## Rapporto arte-fotografia
+
+Introduzione con similitudine
+
+* [[Reazioni degli artisti]]
+* [[Vantaggi della fotografia rispetto all'arte]]
+* [[La fotografia al salone di Parigi]]
+* [[Nuovi orizzonti della fotografia]]
+	* Illustrazione documentaria e turistica
+	* [[Reportage fotografico]]
+## Analisi dell'opera
+
+* [[Cavallo che salta un ostacolo]], Edgar Degàs, 1888-1889
+* [[Le Boulevard des Capucines]], Claude Monet,1873-1874
+* [[Odalisca]] Eugène Delacroix, 1857

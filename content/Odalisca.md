@@ -1,4 +1,9 @@
-![Odalisca](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/La_Barque_de_Dante_%28Delacroix_3820%29.jpg/1280px-La_Barque_de_Dante_%28Delacroix_3820%29.jpg)
+https://fitzmuseum.cam.ac.uk/explore-our-collection/highlights/PD3-1957
 
-## [[Testa di trollaro]]
-![[Pasted image 20240103152642.png]]
+| Artista | Eugéne Delacroix |
+| ---- | ---- |
+| Titolo originale | Odalisque |
+| Tecnica | Olio su tela |
+| Conservato a | Collezione privata |
+| Datato | 1873-1874 |
+![[Pasted image 20240105111936.png]]
