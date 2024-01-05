@@ -21,7 +21,7 @@ Parliamo innanzitutto di [[Cos'è la fotografia]] dando una definizione di fotog
 * [[Fotogramma]]
 	* [[Ombrografia]]
 
-## Opere collegate alla fotografia
+## Rapporto arte-fotografia
 
 * **[[Odalisca]]**, Eugene Delacroix
 * **Paesaggio**, Camille Corto
