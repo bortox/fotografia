@@ -29,11 +29,11 @@ In Dicembre 1878 gli studi di Edward Muybridge sul cavallo al galoppo vengono pu
 ## Analisi dell'opera
 
 ![[Pasted image 20240105123752.png]]
-Tavola 639, *Locomozione Animale*.  Salto di un ostacolo, cavallo nero, Edward Muybridge  - conservato al Musee d'Orsay
+Tavola 639, Locomozione Animale. Salto di un ostacolo, cavallo nero, Edward Muybridge  - conservato al Musee d'Orsay
 
 
 L'opera è fortemente ispirata alla fotografia ed all'album di Muybridge *Locomozione Animale*, probabilmente la scintilla d'ispirazione per la manifattura di *Cavallo che salta un ostacolo* di Degas.
 
 ![[muybridge-degas.png]]
 
-Come s possibile vedere, Muybridge si è ispirato ad uno scatto per la parte sinistra del cavallo, mentre in nessuno scatto il cavallo, in procinto di saltare, tiene gli arti anteriori visibilmente paralleli. Utilizzando la fotografia, interpretazione oggettiva della realtà, assieme all'immaginazione, antitesi dell'oggettivo, Degas ottiene un prodotto che è al tempo stesso sia unione di fotografia e immaginazione sia qualcosa di completamente diverso, come nel processo hegeliano per il raggiungimento dell'Assoluto. 
+Come è possibile vedere, Muybridge si è ispirato ad uno scatto per la parte sinistra del cavallo, mentre in nessuno scatto il cavallo, in procinto di saltare, tiene gli arti anteriori visibilmente paralleli. Utilizzando la fotografia, interpretazione oggettiva della realtà, assieme all'immaginazione, antitesi dell'oggettivo, Degas ottiene un prodotto che è al tempo stesso sia unione di fotografia e immaginazione sia qualcosa di completamente diverso, come nel processo hegeliano per il raggiungimento dell'Assoluto. 

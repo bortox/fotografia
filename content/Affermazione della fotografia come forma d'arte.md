@@ -12,5 +12,8 @@ Inoltre, rispetto all'arte, sicuramente la fotografia possiede dei vantaggi ines
 In questo modo, grazie all'avvento della fotografia, possiamo affermare che l'arte si democratizza e diventa alla portata di tutti.
 
 ![[Pasted image 20240105181315.png]]
+© Andrea Bortolotti
 
 Almeno in un primo momento la fotografia ricopre la funzione di ancella dell'arte, cioè viene utilizzata principalmente per implementare il lavoro degli artisti già affermati famosi. Oltre a dare la possibilità ai pittori di utilizzare le lastre fotografiche come fonte d'ispirazione e fonte preparatoria del dipinto, possiamo riscontrare altre fondamentali funzioni. Infatti la fotografia viene anche utilizzata da Degas per lo studio del movimento (...) oppure, grazie ad essa, gli artisti scoprono nuove modalità di rappresentazione: infatti possiamo pensare a una raffigurazione dall'alto o che elimina porzioni del dipinto (elementi tagliati) per incentivare la curiosità dello spettatore e arricchire il mistero dietro l'opera stessa.
+
+La data periodizzante e spartiacque per l'affermazione della fotografia come forma d'arte è senza dubbio quella dell'[[ammissione al Salon di Parigi|La fotografia al salone di Parigi]].

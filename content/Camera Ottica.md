@@ -1,6 +1,5 @@
-| Titolo | Attributo |
+| Inventore | Alhazen (principio di funzionamento), Johannes Kepler (termine), artisti e scienziati europei rinascimentali (fabbricazione) |
 | ---- | ---- |
-| Inventore | Alhazen (principio di funzionamento), Johannes Kepler (termine), artisti e scienziati europei rinascimentali (fabbricazione)  |
 | Periodo storico | XIII - oggi |
 | Strumenti impiegati | Luce, camera chiusa |
 | Procedure impiegate | Riproduzione di immagini |
