@@ -1,4 +1,5 @@
 Nonostante un inizio della sua storia notevolmente in salita, col tempo, anche la fotografia riesce a prendere il suo spazio, a ritagliarsi un piccolo campo di azione sul palcoscenico culturale dell'Ottocento. 
+
 Se, infatti durante i primi decenni del secolo, come auspicato dallo stesso Charles Baudelaire dopo l'invenzione del [[Dagherrotipo]], la fotografia dovesse necessariamente avere un ruolo marginale rispetto alla pittura e rivestire la caricatura di una fedele e umile ancella, questo ruolo marginale viene meno a metà de secolo. 
 
 Il 1859, in particolare, fu un anno notevolmente importante per la redenzione della fotografia: in questo anno periodizzante, infatti, essa venne ammessa come "forma d'arte" al salon parigino, la più importante mostra nazionale della pittura. Infatti, secondo alcuni storici dell'arte, tale data segna un fondamentale spartiacque tra il passato e il futuro, caratterizzato dalla presa di posizione di molti artisti e dell'arte stessa che vedono la fotografia come un'arte libera e non schiava, legittimata della sua importanza.

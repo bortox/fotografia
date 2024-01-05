@@ -6,6 +6,7 @@
 | Materiale | Bronzo |
 | Conservato a | Tate Gallery, Londra |
 | Datato | 1887-1888 |
+
 Edgar Degas, a differenza dei suoi colleghi Impressionisti, non si focalizzò su paesaggi mitologici come l'arcadia, né svaghi *en plein air* ma si concentro su una rappresentazione della vita di tutti i giorni. 
 
 > Se fossi al governo, istituirei un reparto speciale della gendarmeria solo per tenere d’occhio gli artisti che dipingono all’aperto i propri paesaggi - Edgar Degas

@@ -1,14 +1,14 @@
 ---
-title: Ricerca scolastica
+title: Storia della nascita della fotografia
 draft: false
-tags: []
+tags:
 ---
 
 Lavoro svolto da Marco Pinochi e Andrea Bortolotti
 
 In questa attività approfondiamo le tecnologie che portarono allo sviluppo della fotografia, evidenziando anche l'impatto della nuova invenzione sull'arte dell'ultimo ottocento.
 
-Parliamo innanzitutto di [[Cos'è la fotografia]] dando una definizione di fotografia, illustrando il procedimento tecnico e stabilendo le [[Conseguenze dell'avvento del digitale]]
+Parliamo innanzitutto di [[Cos'è la fotografia]] dando una definizione di fotografia, illustrando il procedimento tecnico e stabilendo le conseguenze dell'avvento del digitale.
 
 ## Metodi di riproduzione meccanica della realtà
 
@@ -23,12 +23,10 @@ Parliamo innanzitutto di [[Cos'è la fotografia]] dando una definizione di fotog
 
 ## Rapporto arte-fotografia
 
-## Rapporto arte-fotografia
+Ogni innovazione, anche la più banale, ha suscitato interesse ed emozioni da parte dei diretti interessati. La fotografia, agli albori del diciannovesimo secolo, non è stata da meno: esploriamo divisioni, conflitti e cambiamenti nel panorama culturale europeo. 
 
-Introduzione con similitudine
-
-* [[Reazioni degli artisti]]
-* [[Vantaggi della fotografia rispetto all'arte]]
+* [[Reazioni degli artisti all'avvento della fotografia]]
+* [[Affermazione della fotografia come forma d'arte]]
 * [[La fotografia al salone di Parigi]]
 * [[Nuovi orizzonti della fotografia]]
 	* Illustrazione documentaria e turistica
