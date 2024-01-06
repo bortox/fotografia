@@ -4,12 +4,13 @@
 | Periodo storico di massima diffusione | 1839-1855 |
 | Strumenti impiegati | materiale fotosensibile, materiale di sviluppo, luce |
 | Procedure impiegate | Fotografia senza fotocamera |
+
 ![[Pasted image 20240103172109.png]]
 ## Tecnica
 
-Il materiale fotosensibile viene esposto alla luce mentre gli oggetti che diventeranno i soggetti della foto vengono esposti sopra di esso. È possibile manipolare le ombre in modo creativo spostando la fonte luminosa e sperimentando con fonti di luce inusuali come schermi televisivi o display di computer. Solitamente l'esposizione avviene all'interno, ma sfruttando la [[Cianografia]] è possible avere lunghi tempi di esposizione all'esterno. 
+Il materiale fotosensibile viene esposto alla luce mentre gli oggetti che diventeranno i soggetti della foto vengono esposti sopra di esso. È possibile manipolare le ombre in modo creativo spostando la fonte luminosa e sperimentando con fonti di luce inusuali come schermi televisivi o display di computer. Solitamente l'esposizione avviene all'interno, ma sfruttando la cianografia è possible avere lunghi tempi di esposizione all'esterno. 
 
-Variazioni di questa tecnica sono utilizzate per scopi scientifici, come nel caso dello studio dei flussi di un fluido attraverso la [[Fotografia Schlieren]] e l'[[Ombrografia]] e per scopi medici come nell'uso dei Raggi X.
+Variazioni di questa tecnica sono utilizzate per scopi scientifici, come nel caso dello studio dei flussi di un fluido attraverso la fotografia Schlieren e l'[[Ombrografia]] e per scopi medici come nell'uso dei Raggi X.
 ## Procedimento
 
 - **Preparazione dell'ambiente**: camera oscura per lo sviluppo con un ingranditore

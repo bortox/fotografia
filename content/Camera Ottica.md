@@ -3,6 +3,7 @@
 | Periodo storico | XIII - oggi |
 | Strumenti impiegati | Luce, camera chiusa |
 | Procedure impiegate | Riproduzione di immagini |
+
 ![[Camera-ottica-funzionamento.png]]
 
 Una camera ottica o camera oscura è una stanza oscurata con un foro su uno dei lati attraverso il quale l'immagine esterna viene proiettata su una superficie antistante al foro stesso. 

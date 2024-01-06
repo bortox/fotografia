@@ -4,6 +4,7 @@
 | Periodo storico di massima diffusione | 1839-1855 |
 | Strumenti impiegati | [[Camera Ottica]], lastra di rame, argento, vapori di iodio (sensibilizzazione alla luce di argento), vapori di mercurio (sviluppo) , tiosolfato di sodio (fissaggio) |
 | Procedure impiegate | Riproduzione di immagini |
+
 ![[Pasted image 20240103162633.png]]
 Dagherrotipo di Louis Daguerre, inventore dell'omonima tecnica.
 

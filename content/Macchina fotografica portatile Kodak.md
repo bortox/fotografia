@@ -4,6 +4,7 @@
 | Periodo storico di massima diffusione | 1888~1980 |
 | Strumenti impiegati | Rullino, [[Camera Ottica]] |
 | Procedure impiegate | Fotografia semplice per la popolazione generale |
+
 ![[Pasted image 20240103184932.png]]
 
 

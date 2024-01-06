@@ -3,6 +3,7 @@
 | Periodo storico di massima diffusione | 1850-1940 |
 | Strumenti impiegati | [[Camera Ottica]], superificie semitrasparente, strumenti di sviluppo, materiale fotosensibile |
 | Procedure impiegate | Incisione del vetro per la riproduzione di più immagini con effetti luminosi coinvolgenti. |
+
 **Cliché in vetro** - dal francese Cliché-verre - è un cliché realizzato utilizzando una lastra di vetro incisa in modo da trattenere inchiostro nelle incisioni. Il fotografo disegna l'immagine incidendola su una superficie semitrasparente come un pezzo di vetro riscaldato dalla fiamma di una candela. Successivamente l'immagine viene impressa su un supporto fotosensibile, come un foglio di carta adeguatamente trattato. Il procedimento di sviluppo e fissaggio dell'immagine è poi analogo allo sviluppo di un negativo fotografico. 
 
 I primi esponenti del cliché-verre furono

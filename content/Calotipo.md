@@ -4,6 +4,7 @@
 | Periodo storico di massima diffusione | 1839-1855 |
 | Strumenti impiegati | [[Camera Ottica]], carta, nitrato d'argento, ioduro di potassio, acido gallico, iposolfito di sodio/bromuro di potassio, acqua, sale da cucina |
 | Procedure impiegate | Riproduzione di immagini |
+
 ![Dagherrotipo](https://upload.wikimedia.org/wikipedia/commons/6/68/-Group_of_17_Early_Calotype_Stereograph_Views-_MET_DP75374.jpg)
 
 
