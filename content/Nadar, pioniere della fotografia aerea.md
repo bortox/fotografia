@@ -4,6 +4,7 @@
 Nadar fu un fotografo e aeronauta francese. Il suo primo lavoro era come caricaturista per diversi giornali, ma dopo pochi anni si interessò alla fotografia. Nel 1854 aprì il primo studio a Parigi, l'inizio di un avventura. Nadar effettuava ritratti a personalità di spicco in Francia, preferendo la luce naturale all'ausilio meccanico. Nadar sperimentò anche con la cronofotografia, come nel caso del suo autoritratto rotante in dodici scatti. 
 
 Ospitò la prima mostra impressionista nel suo studio fotografico in Aprile 1874. Gli impressionisti furono rifiutati al Salon, un esposizione biennale di pittura e scultura al Louvre di Parigi. 
+
 ![[Pasted image 20240103225129.png]]
 
 Monet, Impressione al levar del Sole, 1872 - Ospitato nello studio di Nadar in Aprile 1874.
