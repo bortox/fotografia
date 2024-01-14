@@ -38,5 +38,5 @@ Ogni innovazione, anche la più banale, ha suscitato interesse ed emozioni da pa
 ## Analisi dell'opera
 
 * [[Cavallo che salta un ostacolo]], Edgar Degàs, 1888-1889
-* [[Le Boulevard des Capucines]], Claude Monet,1873-1874
+* [[Boulevard des Capucines]], Claude Monet,1873-1874
 * [[Odalisca]] Eugène Delacroix, 1857

@@ -1,3 +1,10 @@
+---
+tags: 
+draft: false
+title: Edward Muybridge e lo studio del movimento
+description: Edward Muybridge, la raccolta di cronofotografie Animal Locomotion sul movimento e lo studio del cavallo
+---
+
 Muybridge sviluppò un dispositivo con dodici - esteso poi a ventiquattro - fotocamere allineate per studiare il movimento dei cavalli su richiesta di Lealand Stanford.
 
 La raccolta delle cronofotografie di Muybridge si chiama Animal Locomotion, contiene 781 tavole e fu pubblicata nel 1887. 

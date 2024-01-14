@@ -1,3 +1,10 @@
+---
+tags: 
+draft: false
+title: Analisi di cavallo che salta un ostacolo di Degas
+description: Cavallo che salta un ostacolo di Edgar Degas, storia dell'artista, collegamenti con la cronofotografia e analisi dell'opera
+---
+
 ![[Pasted image 20240105113505.png]]
 
 | Artista | Edgar Degas |

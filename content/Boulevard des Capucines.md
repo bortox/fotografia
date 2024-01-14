@@ -1,3 +1,10 @@
+---
+tags: 
+draft: false
+title: Le Boulevard des Capucines, commento e analisi critica
+description: Analisi del quadro Boulevard des Capucines di Monet, con contesto storico e commento critico.
+---
+
 | Artista | Claude Monet |
 | ---- | ---- |
 | Titolo originale | Boulevard des Capucines |

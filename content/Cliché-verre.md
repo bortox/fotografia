@@ -1,3 +1,9 @@
+---
+tags: 
+draft: false
+title: Cliché verre, procedimento e tecnica di Corot
+description: Storia del cliché verre con un approfondimento sulla tecnica perfezionata da Corot
+---
 | Inventore | William Henry Fox Talbot, inventore e fotografo inglese, 1834-1841 |
 | ---- | ---- |
 | Periodo storico di massima diffusione | 1850-1940 |

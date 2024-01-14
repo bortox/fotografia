@@ -1,3 +1,10 @@
+---
+tags: 
+draft: false
+title: "Camera oscura: primi utilizzi, principio di funzionamento e influenza nella fotografia"
+description: Storia, principio di funzionamento ed applicazione in campo pittorico e fotografico della camera oscura o ottica.
+---
+
 | Inventore | Alhazen (principio di funzionamento), Johannes Kepler (termine), artisti e scienziati europei rinascimentali (fabbricazione) |
 | ---- | ---- |
 | Periodo storico | XIII - oggi |

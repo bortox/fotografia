@@ -1,3 +1,10 @@
+---
+tags: 
+draft: false
+title: Dagherrotipo, inventore, procedimento originale e diffusione in Italia
+description: Storia del dagherrotipo inventato da Daguerre, con un analisi del primo in Italia e il processo chimico per ottenere un'immagine
+---
+
 | Titolo | Attributo |
 | ---- | ---- |
 | Inventore | Louis Daguerre, 1929, artista e chimico francese |

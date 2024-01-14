@@ -1,3 +1,9 @@
+---
+tags: 
+draft: false
+title: "Cronofotografia: storia, tecniche e protagonisti"
+description: Storia della cronofotografia, con tecniche, procedimento ed esponenti celebri.
+---
 
 | Inventore | Etienne-Jules Marey, medico fisiologo francese |
 | ---- | ---- |
