@@ -28,8 +28,14 @@ jobs:
         run: npm ci
       - name: Build Quartz
         run: npx quartz build
-      - name: Optimize PNGs
-        run: sudo apt install -y pngquant libpng-dev && find . -name '*.png' -print0 | xargs -0 -P16 -L1 pngquant --ext .png --force -Q 90-100 --skip-if-larger
+      - name: Resize Images
+        id: resize-images
+        uses: gonzalonaveira/gh-image-resizing@master
+        with:
+          IMAGES_MAX_WIDTH: "2500"
+          IMAGES_QUALITY: "90"
+          IMAGES_FORMATS: "jpg, jpge, png" 
+          IMAGES_DIRECTORIES: "public"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
